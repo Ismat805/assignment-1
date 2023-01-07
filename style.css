@@ -134,3 +134,73 @@ line-height: 47px;
 left: 711px;
 top: 1792.3px;
 }
+
+/* fourth section */
+.section{
+    background-image: url("./images/watch.png"), linear-gradient(90deg, #005FAC 0%, rgba(0, 95, 172, 0) 100%);
+    background-blend-mode: overlay;
+    position: absolute;
+    width: 1140px;
+    height: 300px;
+    left: 230px;
+    top: 2221.96px;
+
+}
+.content-title{
+    position: absolute;
+    width: 459px;
+    height: 94px;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    color: white;
+    text-align: justify;
+    top: 30px;
+    padding: 10px;
+}
+
+.button{
+    position: absolute;
+width: 160px;
+height: 64px;
+bottom: 50px;
+color: blue;
+border-radius: 25px;
+padding: 5px;
+}
+
+.footer{
+    position: absolute;
+    width: 1600px;
+    height: 577px;
+    left: 0px;
+    top: 2651.96px;
+    background: black;
+}
+.div{
+    position: absolute;
+width: 485px;
+height: 317px;
+}
+.footer-title{
+    color: white;
+    padding: 10px;
+}
+.footer-details{
+    color:white;
+    padding: 10px;
+    bottom: 25px;
+}
+.email-phone{
+    color: white;
+    padding: 10px;
+    bottom: 20px;
+}
+.icons{
+    position: absolute;
+    width: 175px;
+    height: 46px;
+    bottom: 100px;
+}
